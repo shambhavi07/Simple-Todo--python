@@ -11,11 +11,12 @@ all Todos and delete both Todos and Notes.<br>
 
 ## Functionalities completed:
   * [x] A RESTful API created using Python framework: FLASK
-  * [x] List already added notes
-  * [x] A TODO Note can be added
+  * [x] List all the already existing notes
+  * [x] A todo Note can be added
   * [x] A todo note can be deleted
-  * [x] a todo note can be updated
+  * [x] A todo note can be updated
   
+ ## APP WALKTHROUGH  
 Here's a walkthrough of implemented user stories:
 <img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
