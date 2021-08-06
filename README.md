@@ -18,7 +18,7 @@ all Todos and delete both Todos and Notes.<br>
   
  ## APP WALKTHROUGH  
 Here's a walkthrough of implemented user stories:
-<img src='Walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='FlaskToDo.gif' title='FlaskToDo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
