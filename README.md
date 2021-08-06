@@ -26,6 +26,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 * FLASK https://flask.palletsprojects.com/en/2.0.x/
 * PIP installation https://flask.palletsprojects.com/en/2.0.x/
 * flask_sqlalchemy
+* Venv
 * Python version 3.9.4
 
 ## REFERENCES
