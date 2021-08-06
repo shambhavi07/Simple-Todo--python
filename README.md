@@ -17,7 +17,7 @@ all Todos and delete both Todos and Notes.<br>
   * [x] A todo note can be updated
   
  ## APP WALKTHROUGH  
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the TODO app:
 <img src='FlaskToDo.gif' title='FlaskToDo' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
